@@ -12,7 +12,7 @@ A Professional **Software Engineer** with over 3 years of experience in developi
 
 ### Frameworks & Libraries  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 
 ### Tools & Platforms  
