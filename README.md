@@ -21,7 +21,6 @@ I love writing clean, maintainable, and well-tested code that solves real-world 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Authentication & Security
 ![Keycloak](https://img.shields.io/badge/Keycloak-0A6ED1?style=flat-square&logo=keycloak&logoColor=white)
