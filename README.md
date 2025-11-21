@@ -12,7 +12,7 @@ A Professional **Software Engineer** with over 3 years of experience in developi
 
 ### Frameworks & Libraries  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 
 ### Tools & Platforms  
@@ -23,12 +23,6 @@ A Professional **Software Engineer** with over 3 years of experience in developi
 
 ### APIs  
 ![REST](https://img.shields.io/badge/REST-000000?style=flat-square&logo=rest&logoColor=white)
-
-### Cybersecurity  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white)
-
-### Cloud  
-![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## GitHub Stats at a Glance
 
